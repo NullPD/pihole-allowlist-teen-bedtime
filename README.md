@@ -26,7 +26,7 @@ scdn.co
 ## 📦 How to Use
 
 1. **Add this list to Pi-hole**  
-   - Pi-hole Admin > *Group Management* > *Adlists*
+   - Pi-hole Admin > *Group Management* > *Lists*
    - Add the raw file URL:  
      `https://raw.githubusercontent.com/NullPD/pihole-allowlist-teen-bedtime/main/allowlist.txt`
    - Assign it only to the appropriate group (e.g. `SpotifyOnly`).
