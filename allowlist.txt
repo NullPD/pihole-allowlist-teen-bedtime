@@ -2,3 +2,5 @@ spotify.com
 api.spotify.com
 spclient.wg.spotify.com
 scdn.co
+connectivitycheck.gstatic.com
+clients3.google.com
