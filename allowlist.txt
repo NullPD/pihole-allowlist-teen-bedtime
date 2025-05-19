@@ -1,0 +1,3 @@
+spotify.com
+*.spotify.com
+scdn.co
