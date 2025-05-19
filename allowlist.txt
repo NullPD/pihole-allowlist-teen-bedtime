@@ -1,3 +1,4 @@
 spotify.com
-*.spotify.com
+api.spotify.com
+spclient.wg.spotify.com
 scdn.co
