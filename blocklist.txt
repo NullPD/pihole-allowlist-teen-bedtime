@@ -1,5 +1,6 @@
 www.tiktok.com
 tiktok.com
+tiktokv.com
 mcs-sg.tiktokv.com
 mssdk-sg.tiktok.com
 p16-sign.tiktokcdn-us.com
